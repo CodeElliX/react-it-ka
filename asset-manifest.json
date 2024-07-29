@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/react-it-ka/static/css/main.6db72b27.css",
+    "main.js": "/react-it-ka/static/js/main.774ebbf9.js",
+    "static/css/917.d88e1e8d.chunk.css": "/react-it-ka/static/css/917.d88e1e8d.chunk.css",
+    "static/js/917.1ab7f219.chunk.js": "/react-it-ka/static/js/917.1ab7f219.chunk.js",
+    "static/css/286.a2afc67e.chunk.css": "/react-it-ka/static/css/286.a2afc67e.chunk.css",
+    "static/js/286.693656b7.chunk.js": "/react-it-ka/static/js/286.693656b7.chunk.js",
+    "static/css/253.23250405.chunk.css": "/react-it-ka/static/css/253.23250405.chunk.css",
+    "static/js/253.38e2ebb1.chunk.js": "/react-it-ka/static/js/253.38e2ebb1.chunk.js",
+    "static/js/787.c801d560.chunk.js": "/react-it-ka/static/js/787.c801d560.chunk.js",
+    "static/media/spinner.svg": "/react-it-ka/static/media/spinner.d1cd3b34fa069fad928e582b2a3423b8.svg",
+    "index.html": "/react-it-ka/index.html",
+    "main.6db72b27.css.map": "/react-it-ka/static/css/main.6db72b27.css.map",
+    "main.774ebbf9.js.map": "/react-it-ka/static/js/main.774ebbf9.js.map",
+    "917.d88e1e8d.chunk.css.map": "/react-it-ka/static/css/917.d88e1e8d.chunk.css.map",
+    "917.1ab7f219.chunk.js.map": "/react-it-ka/static/js/917.1ab7f219.chunk.js.map",
+    "286.a2afc67e.chunk.css.map": "/react-it-ka/static/css/286.a2afc67e.chunk.css.map",
+    "286.693656b7.chunk.js.map": "/react-it-ka/static/js/286.693656b7.chunk.js.map",
+    "253.23250405.chunk.css.map": "/react-it-ka/static/css/253.23250405.chunk.css.map",
+    "253.38e2ebb1.chunk.js.map": "/react-it-ka/static/js/253.38e2ebb1.chunk.js.map",
+    "787.c801d560.chunk.js.map": "/react-it-ka/static/js/787.c801d560.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6db72b27.css",
+    "static/js/main.774ebbf9.js"
+  ]
+}
